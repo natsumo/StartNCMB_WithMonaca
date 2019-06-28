@@ -8,9 +8,11 @@ class: center, middle, inverse
 .right[<img src="readme-img/takano.png" alt="takano.png" width="150px">]
 
 .footnote[
+.left[
 Copyright 2019 FUJITSU CLOUD TECHNOLOGIES LIMITED<br>
 Created by natsumo
 <!--20190628-->
+]
 ]
 
 ---
