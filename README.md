@@ -984,7 +984,7 @@ layout: false
 ---
 #### 1. mobile backend に保存したデータを取得する
 
-データの取得は検索を行います。先に検索条件を設定します。件数を取得を指定します。
+データを取得するにはクラスに対して検索処理を行います。保存件数を取得をしたいので、検索条件を以下のように指定します。
 
 .center[<img src="readme-img/Monaca63.png" alt="Monaca63.png" width="600px">]
 
@@ -1001,7 +1001,7 @@ layout: false
 ---
 #### 1. mobile backend に保存したデータを取得する
 
-全件数を取得したいので、全件検索をします。
+全件数を取得したいので、全件検索処理を実行します。
 
 .center[<img src="readme-img/Monaca64.png" alt="Monaca64.png" width="600px">]
 
