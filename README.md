@@ -8,7 +8,9 @@ class: center, middle, inverse
 .right[<img src="readme-img/takano.png" alt="takano.png" width="150px">]
 
 .footnote[
-20190628
+Copyright 2019 FUJITSU CLOUD TECHNOLOGIES LIMITED<br>
+Created by natsumo
+<!--20190628-->
 ]
 
 ---
@@ -122,8 +124,6 @@ layout: false
 * デバッガー【任意】
   * <a href='https://ja.monaca.io/debugger.html' target='_blank'>Monacaデバッガー</a>
 
-__ ★後で消す
-
 .right_under[
 .size_small_7[
 .font_color_ncmb_blue[
@@ -140,8 +140,6 @@ Monaca にログインする。
 .center[<img src="readme-img/Monaca00.png" alt="Monaca00.png" width="700px">]
 
 <a href='https://ja.monaca.io/' target='_blank'>ja.monaca.io</a>
-
-_★あとで消す_
 
 .right_under[
 .size_small_7[
@@ -386,8 +384,6 @@ Monaca プロジェクトを作ります。
 
 <a href='https://mbaas.nifcloud.com/' target='_blank'>mbaas.nifcloud.com</a>
 
-_★あとで消す_
-
 .right_under[
 .size_small_7[
 .font_color_ncmb_blue[
@@ -426,9 +422,6 @@ _★あとで消す_
 ＜いずれのアカウントも所持していない場合＞<br>いずれも無料で作成可能ですが、Googleアカウント（Gmail）がおすすめです。<br><a href='https://accounts.google.com/signup' target='_blank'>Googleアカウントの作成</a>
 ]
 
-_★あとで消す_
-
-
 .right_under[
 .size_small_7[
 .font_color_ncmb_blue[
@@ -466,8 +459,6 @@ _★あとで消す_
 .center[<img src="readme-img/Monaca30.png" alt="Monaca30.png" width="750px">]
 
 <a href='https://mbaas.nifcloud.com/' target='_blank'>mbaas.nifcloud.com</a>
-
-_★あとで消す_
 
 .right_under[
 .size_small_7[
