@@ -77,6 +77,8 @@ class: center, middle, inverse_sub
 ---
 ## 2. mobile backend を手っ取り早く使うには
 
+.right[<img src="readme-img/takano.png" alt="takano.png" width="150px">]
+
 ---
 layout: false
 ### 2. mobile backend を手っ取り早く使うには
@@ -103,6 +105,8 @@ layout: true
 class: center, middle, inverse_sub
 ---
 ## 3. 実際に触ってみましょう①
+
+.right[<img src="readme-img/takano.png" alt="takano.png" width="150px">]
 
 ---
 layout: false
@@ -917,6 +921,8 @@ class: center, middle, inverse_sub
 ---
 ## 4. 実際に触ってみましょう②
 
+.right[<img src="readme-img/takano.png" alt="takano.png" width="150px">]
+
 ---
 layout: false
 ### 4. 実際に触ってみましょう②
@@ -1114,6 +1120,8 @@ layout: true
 class: center, middle, inverse_sub
 ---
 ## まとめ
+
+.right[<img src="readme-img/takano.png" alt="takano.png" width="150px">]
 
 ---
 layout: false
