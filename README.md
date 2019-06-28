@@ -57,6 +57,8 @@ class: center, middle, inverse_sub
 ---
 ## 1. mobile backend って何？
 
+.right[<img src="readme-img/takano.png" alt="takano.png" width="150px">]
+
 ---
 layout: false
 ### 1. mobile backend って何？
