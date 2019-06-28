@@ -85,7 +85,7 @@ class: center, middle, inverse_sub
 layout: false
 ### 2. mobile backend を手っ取り早く使うには
 
-開発中のアプリがあればそれに組み込むのが一番。<br>（AndroidでもiOSでもUnityでも）
+開発中のアプリがあればそれに組み込むのが一番。（AndroidでもiOSでもUnityでも）
 
 開発中のアプリが特に無くて、<br>
 とりあえず使い勝手を試したいのであれば [Monaca](https://ja.monaca.io/) を使うと良い👌
